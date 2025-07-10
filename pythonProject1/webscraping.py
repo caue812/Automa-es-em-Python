@@ -1,4 +1,5 @@
 import requests
+from PIL.DdsImagePlugin import item1
 from bs4 import BeautifulSoup
 
 from consultaCNPJ import response
@@ -15,5 +16,8 @@ if response.status_code == 200:
         lista_precos.append(preco_produto.text)
 
     dados = zip(lista_produtos, lista_precos)
+
+    for item in dados:
+        print(item[0],'------', item[1])
 
 

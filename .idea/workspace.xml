@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d2051e-3ecd-4a5e-9256-c095a18dbc22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonProject1/desfocar_imagem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject1/webscraping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="49d2051e-3ecd-4a5e-9256-c095a18dbc22" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
