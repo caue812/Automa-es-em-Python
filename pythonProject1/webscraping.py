@@ -14,6 +14,6 @@ if response.status_code == 200:
     for preco_produto in soup.select('.type1 .price'):
         lista_precos.append(preco_produto.text)
 
-    dados =
+    dados = zip(lista_produtos, lista_precos)
 
 
